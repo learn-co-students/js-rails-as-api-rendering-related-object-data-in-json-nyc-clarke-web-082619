@@ -11,4 +11,6 @@ class SightingsController < ApplicationController
             render json: { message: 'No sighting found with that id'}
         end
     end 
+
+    ## THIS IS A COMMMMENT
 end
